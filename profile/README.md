@@ -1,5 +1,6 @@
 # KDT-Solutions GmbH
 
-https://kdt-solutions.ch
+IT company based in switzerland, working on different kinds of webapplications to make the world a little bit less complicated.
+Please contact us for any projects you are interested in!
 
-info@kdt-solutions.ch
+https://kdt-solutions.ch | info@kdt-solutions.ch
